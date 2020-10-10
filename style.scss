@@ -1,0 +1,28 @@
+*{font-family: 'Roboto', sans-serif;}
+
+.height{
+    min-height: 100vh;
+}
+
+.line{
+    height: 5px;
+    width: 200px;
+}
+
+.left-image{
+  background-image: url(govno.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.imeg{
+    height: 250px;
+    width: 100%;
+}
+
+.iq{
+     display: flex;
+     width: 200px;
+     justify-content: space-between;
+}
